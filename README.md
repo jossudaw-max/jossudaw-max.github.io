@@ -1,11 +1,19 @@
-# jossudaw-max.github.io
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Páguenme el Tricount</title>
 </head>
 <body>
-  <h1>¡Páguenme el Tricount!</h1>
+  <h1>Liquiden el pinche Tricount ya </h1>
+
+  <h2>Morosos:</h2>
+  <ul>
+    <li>Dani24: 171,31</li>
+    <li>Dani21:2,35</li>
+    <li>Picalexo 393,17</li>
+    <li>Saul8: 149,46</li>
+  
+  </ul>
+
 </body>
 </html>
